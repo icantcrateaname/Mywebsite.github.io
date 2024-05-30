@@ -1,0 +1,42 @@
+body {
+    background-image: url("about/images.jpg")
+}
+
+.top-part {
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+.mid-part {
+    text-align: center;
+    color: white;
+    justify-content: center;
+}
+
+.goback-part {
+    position:absolute;
+    top: 315px;
+    right: 60%;
+    color: white;
+    text-transform: uppercase;    
+}
+
+.goback-part a {
+    color: white;
+}
+
+.Work-part {
+    position:absolute;
+    top: 315px;
+    left: 60%;
+    color:white;
+    text-transform: uppercase;    
+}
+
+.Work-part a {
+    color: white;
+
+}

@@ -1,0 +1,40 @@
+body {
+    background-image: url("image/coding\ image.jpg");
+}
+
+.Top-content {
+    text-align: center;
+    justify-content: center;
+    color:white;
+    text-transform: uppercase;
+}
+
+.First-content {
+    text-align: center;
+    justify-content: center;
+    color:white;
+}
+
+.about-content {
+    position:absolute;
+    top: 315px;
+    right: 60%;
+    color: white;
+    text-transform: uppercase;    
+}
+
+.about-content a {
+    color:white;
+}
+
+.work-exp {
+    position:absolute;
+    top: 315px;
+    left: 60%;
+    color: white;
+    text-transform: uppercase;    
+}
+
+.work-exp a {
+    color:white;
+}
